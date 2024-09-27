@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://angslear.github.io/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/app/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/assets/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/css/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/data/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/includes/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/item/sitemap.angslear.gz
+Sitemap: https://angslear.github.io/src/sitemap.angslear.gz
